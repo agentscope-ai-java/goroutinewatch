@@ -12,7 +12,7 @@ import (
 	"sync"
 	"time"
 
-	goroutinewatch "github.com/__GH_OWNER__/goroutinewatch"
+	goroutinewatch "github.com/agentscope-ai-java/goroutinewatch"
 )
 
 const (

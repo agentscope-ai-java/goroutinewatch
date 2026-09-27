@@ -1,3 +1,3 @@
-module github.com/__GH_OWNER__/goroutinewatch
+module github.com/agentscope-ai-java/goroutinewatch
 
 go 1.27

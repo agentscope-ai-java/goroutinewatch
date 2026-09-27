@@ -63,7 +63,7 @@ cannot show that — only a trend across many samples can.
 ## Install
 
 ```sh
-go get github.com/__GH_OWNER__/goroutinewatch
+go get github.com/agentscope-ai-java/goroutinewatch
 ```
 
 Go >= 1.27 (see `go.mod`). No runtime dependencies.
